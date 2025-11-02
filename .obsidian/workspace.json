@@ -88,7 +88,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +198,7 @@
   "active": "25dcf276a5c6d73c",
   "lastOpenFiles": [
     "README.md",
+    "init_aiba_structure.md.md",
     "成果物（outputs）/template_output.md.md",
     "ルール（rules）/operation_rules.md.md",
     "ルール（rules）",
@@ -207,7 +209,6 @@
     "成果物（outputs）",
     "分析（analysis）/template_analysis.md.md",
     "分析（analysis）",
-    "init_aiba_structure.md.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "無題のファイル.base",
