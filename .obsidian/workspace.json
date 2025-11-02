@@ -35,7 +35,8 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "init_aiba_structure.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "init_aiba_structure.mdへのバックリンク"
+              "title": "READMEへのバックリンク"
             }
           },
           {
@@ -128,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "init_aiba_structure.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "init_aiba_structure.mdからのアウトゴーイングリンク"
+              "title": "READMEからのアウトゴーイングリンク"
             }
           },
           {
@@ -144,7 +145,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -157,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "init_aiba_structure.md.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "init_aiba_structure.mdのアウトライン"
+              "title": "READMEのアウトライン"
             }
           },
           {
@@ -195,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a6a523312c8d388",
+  "active": "abbbfe8a2fdfe3e1",
   "lastOpenFiles": [
-    "README.md",
     "init_aiba_structure.md.md",
+    "README.md",
     "成果物（outputs）/template_output.md.md",
     "ルール（rules）/operation_rules.md.md",
     "ルール（rules）",
