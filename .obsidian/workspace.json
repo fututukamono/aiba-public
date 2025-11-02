@@ -25,14 +25,17 @@
             "id": "0594641de4972f17",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,8 +194,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0594641de4972f17",
+  "active": "1447378391150e22",
   "lastOpenFiles": [
+    "README.md",
+    "成果物（outputs）/template_output.md.md",
+    "ルール（rules）/operation_rules.md.md",
+    "ルール（rules）",
+    "参考資料（refs）/template_reference.md.md",
+    "参考資料（refs）",
+    "プロジェクト（projects）/template_project.md.md",
+    "プロジェクト（projects）",
+    "成果物（outputs）",
+    "分析（analysis）/template_analysis.md.md",
+    "分析（analysis）",
     "init_aiba_structure.md.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
@@ -204,11 +218,9 @@
     "analysis/template_analysis.md.md",
     "generate_aiba_templates.md.md",
     "無題のファイル.md",
-    "README.md",
     "analysis",
     "refs",
     "outputs",
-    "projects",
-    "rules"
+    "projects"
   ]
 }
