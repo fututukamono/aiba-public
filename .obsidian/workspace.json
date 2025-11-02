@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules/operation_rules.md.md",
+                "file": "init_aiba_structure.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "operation_rules.mdへのバックリンク"
+              "title": "init_aiba_structure.mdへのバックリンク"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rules/operation_rules.md.md",
+                "file": "init_aiba_structure.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "operation_rules.mdからのアウトゴーイングリンク"
+              "title": "init_aiba_structure.mdからのアウトゴーイングリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rules/operation_rules.md.md",
+                "file": "init_aiba_structure.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "operation_rules.mdのアウトライン"
+              "title": "init_aiba_structure.mdのアウトライン"
             }
           },
           {
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1447378391150e22",
+  "active": "25dcf276a5c6d73c",
   "lastOpenFiles": [
     "README.md",
     "成果物（outputs）/template_output.md.md",
