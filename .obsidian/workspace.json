@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "setup/git_sync_status.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "git_sync_status.mdへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -128,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "setup/git_sync_status.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "git_sync_status.mdからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -157,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "setup/git_sync_status.md.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git_sync_status.mdのアウトライン"
+              "title": "conflict-files-obsidian-gitのアウトライン"
             }
           },
           {
@@ -195,10 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0594641de4972f17",
+  "active": "25dcf276a5c6d73c",
   "lastOpenFiles": [
-    "README.md",
     "setup/git_sync_status.md.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "setup",
     "init_aiba_structure.md.md",
     "成果物（outputs）/template_output.md.md",
