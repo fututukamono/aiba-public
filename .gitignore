@@ -1,0 +1,36 @@
+# ===============================
+# ORIGAMI OBAKE TOKYO / AIBA Master
+# GitHub公開除外設定（2025-11）
+# ===============================
+
+# 個人・内部メモ（公開しないフォルダ）
+分析（analysis）/
+プロジェクト（projects）/
+ルール（rules）/
+
+# 一時・出力系（内部用）
+成果物（outputs）/
+
+# Obsidianシステムファイル（端末依存）
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/data.json.bak
+
+# センシティブ情報（トークン・鍵）
+**/*token*
+**/*Token*
+**/*secret*
+**/*Secret*
+**/*.key
+**/*.pem
+**/*.cert
+**/*.license
+
+# バックアップ・一時ファイル
+*.log
+*.tmp
+*.bak
+*.old
+*.swp
