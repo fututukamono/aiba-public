@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "setup/git_sync_status.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "git_sync_status.mdへのバックリンク"
             }
           },
           {
@@ -127,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "setup/git_sync_status.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "git_sync_status.mdからのアウトゴーイングリンク"
             }
           },
           {
@@ -155,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "setup/git_sync_status.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-gitのアウトライン"
+              "title": "git_sync_status.mdのアウトライン"
             }
           },
           {
@@ -193,15 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25dcf276a5c6d73c",
+  "active": "0594641de4972f17",
   "lastOpenFiles": [
-    "setup/git_sync_status.md.md",
+    "ルール（rules）/operation_rules.md.md",
     "conflict-files-obsidian-git.md",
+    "setup/git_sync_status.md.md",
     "README.md",
     "setup",
     "init_aiba_structure.md.md",
     "成果物（outputs）/template_output.md.md",
-    "ルール（rules）/operation_rules.md.md",
     "ルール（rules）",
     "参考資料（refs）/template_reference.md.md",
     "参考資料（refs）",
