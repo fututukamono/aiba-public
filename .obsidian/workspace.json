@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setup/git_sync_status.md.md",
+                "file": "setup/aiba_operation_append_20251104.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git_sync_status.md"
+              "title": "aiba_operation_append_20251104"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "setup/git_sync_status.md.md",
+                "file": "setup/aiba_operation_append_20251104.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "git_sync_status.mdへのバックリンク"
+              "title": "aiba_operation_append_20251104へのバックリンク"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "setup/git_sync_status.md.md",
+                "file": "setup/aiba_operation_append_20251104.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "git_sync_status.mdからのアウトゴーイングリンク"
+              "title": "aiba_operation_append_20251104からのアウトゴーイングリンク"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "setup/git_sync_status.md.md",
+                "file": "setup/aiba_operation_append_20251104.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git_sync_status.mdのアウトライン"
+              "title": "aiba_operation_append_20251104のアウトライン"
             }
           },
           {
@@ -197,9 +197,10 @@
   },
   "active": "0594641de4972f17",
   "lastOpenFiles": [
+    "setup/git_sync_status.md.md",
+    "setup/aiba_operation_append_20251104.md",
     "ルール（rules）/operation_rules.md.md",
     "conflict-files-obsidian-git.md",
-    "setup/git_sync_status.md.md",
     "README.md",
     "setup",
     "init_aiba_structure.md.md",
