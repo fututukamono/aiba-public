@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git_sync_status",
+                "query": "tag:#origami_obake_tokyo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "setup/aiba_operation_append_20251104.md",
+                "file": "参考資料（refs）/オーディオ制作における最高の日々はまだこれから.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "aiba_operation_append_20251104のアウトライン"
+              "title": "オーディオ制作における最高の日々はまだこれからのアウトライン"
             }
           },
           {
@@ -195,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0594641de4972f17",
+  "active": "25dcf276a5c6d73c",
   "lastOpenFiles": [
     "setup/aiba_operation_append_20251104.md",
     "参考資料（refs）/オーディオ制作における最高の日々はまだこれから.md",
