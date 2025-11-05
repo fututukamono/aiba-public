@@ -25,14 +25,14 @@
             "id": "0594641de4972f17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "参考資料（refs）/オーディオ制作における最高の日々はまだこれから.md",
-                "mode": "source",
-                "source": false
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "オーディオ制作における最高の日々はまだこれから"
+              "icon": "diff",
+              "title": "Diff: README"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#origami_obake_tokyo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5
   },
   "right": {
     "id": "33ee42709126e1fd",
@@ -158,13 +158,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "参考資料（refs）/オーディオ制作における最高の日々はまだこれから.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "オーディオ制作における最高の日々はまだこれからのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -182,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,14 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25dcf276a5c6d73c",
+  "active": "0594641de4972f17",
   "lastOpenFiles": [
-    "setup/aiba_operation_append_20251104.md",
-    "参考資料（refs）/オーディオ制作における最高の日々はまだこれから.md",
+    "README.md",
+    "無題のファイル.base",
+    "2025-11-05.md",
+    "無題のファイル.canvas",
     "setup/git_sync_status.md.md",
+    "参考資料（refs）/オーディオ制作における最高の日々はまだこれから.md",
+    "setup/aiba_operation_append_20251104.md",
     "ルール（rules）/operation_rules.md.md",
     "conflict-files-obsidian-git.md",
-    "README.md",
     "setup",
     "init_aiba_structure.md.md",
     "成果物（outputs）/template_output.md.md",
@@ -216,8 +218,6 @@
     "分析（analysis）/template_analysis.md.md",
     "分析（analysis）",
     "無題のファイル 1.canvas",
-    "無題のファイル.canvas",
-    "無題のファイル.base",
     "rules/operation_rules.md.md",
     "refs/template_reference.md.md",
     "projects/template_project.md.md",
