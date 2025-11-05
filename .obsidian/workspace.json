@@ -74,8 +74,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1447378391150e22",
+  "active": "77dac2fa494158a2",
   "lastOpenFiles": [
+    "無題のフォルダ",
     "README.md",
     "無題のファイル.base",
     "2025-11-05.md",
