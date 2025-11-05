@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "init_aiba_structure.md"
             }
-          },
-          {
-            "id": "0594641de4972f17",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: README"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "init_aiba_structure.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "init_aiba_structure.mdのアウトライン"
             }
           },
           {
@@ -195,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0594641de4972f17",
+  "active": "1447378391150e22",
   "lastOpenFiles": [
     "README.md",
     "無題のファイル.base",
