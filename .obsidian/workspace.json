@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分析（analysis）/template_analysis.md.md",
+                "file": "ルール（rules）/ORIGAMI OBAKE TOKYO SNS 運用統合方針（2025-11確定）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template_analysis.md"
+              "title": "ORIGAMI OBAKE TOKYO SNS 運用統合方針（2025-11確定）"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "分析（analysis）/template_analysis.md.md",
+                "file": "ルール（rules）/ORIGAMI OBAKE TOKYO SNS 運用統合方針（2025-11確定）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "template_analysis.mdのアウトライン"
+              "title": "ORIGAMI OBAKE TOKYO SNS 運用統合方針（2025-11確定）のアウトライン"
             }
           },
           {
@@ -182,12 +182,14 @@
   },
   "active": "1447378391150e22",
   "lastOpenFiles": [
+    "setup/ORIGAMI OBAKE TOKYO 今後の方針.md",
+    "ルール（rules）/ORIGAMI OBAKE TOKYO SNS 運用統合方針（2025-11確定）.md",
+    "分析（analysis）/template_analysis.md.md",
     "generate_aiba_templates.md.md",
     "2025-11-05.md",
     "setup/init_aiba_structure.md.md",
     "目次.base",
     "README.md",
-    "setup/ORIGAMI OBAKE TOKYO 今後の方針.md",
     "無題のファイル.canvas",
     "メモ",
     "setup/git_sync_status.md.md",
@@ -203,7 +205,6 @@
     "プロジェクト（projects）/template_project.md.md",
     "プロジェクト（projects）",
     "成果物（outputs）",
-    "分析（analysis）/template_analysis.md.md",
     "分析（analysis）",
     "無題のファイル 1.canvas",
     "rules/operation_rules.md.md",
