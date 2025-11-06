@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "init_aiba_structure.md.md",
+                "file": "分析（analysis）/template_analysis.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "init_aiba_structure.md"
+              "title": "template_analysis.md"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "init_aiba_structure.md.md",
+                "file": "分析（analysis）/template_analysis.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "init_aiba_structure.mdのアウトライン"
+              "title": "template_analysis.mdのアウトライン"
             }
           },
           {
@@ -180,20 +180,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77dac2fa494158a2",
+  "active": "1447378391150e22",
   "lastOpenFiles": [
-    "無題のフォルダ",
-    "README.md",
-    "無題のファイル.base",
+    "generate_aiba_templates.md.md",
     "2025-11-05.md",
+    "setup/init_aiba_structure.md.md",
+    "目次.base",
+    "README.md",
+    "setup/ORIGAMI OBAKE TOKYO 今後の方針.md",
     "無題のファイル.canvas",
+    "メモ",
     "setup/git_sync_status.md.md",
-    "参考資料（refs）/オーディオ制作における最高の日々はまだこれから.md",
+    "メモ/オーディオ制作における最高の日々はまだこれから.md",
     "setup/aiba_operation_append_20251104.md",
     "ルール（rules）/operation_rules.md.md",
     "conflict-files-obsidian-git.md",
     "setup",
-    "init_aiba_structure.md.md",
     "成果物（outputs）/template_output.md.md",
     "ルール（rules）",
     "参考資料（refs）/template_reference.md.md",
@@ -209,10 +211,8 @@
     "projects/template_project.md.md",
     "outputs/template_output.md.md",
     "analysis/template_analysis.md.md",
-    "generate_aiba_templates.md.md",
     "無題のファイル.md",
     "analysis",
-    "refs",
-    "outputs"
+    "refs"
   ]
 }
