@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setup/aiba_operation_append_20251104.md",
+                "file": "Apollogic_Mix_Session.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aiba_operation_append_20251104"
+              "title": "Apollogic_Mix_Session.md"
             }
           }
         ]
@@ -182,6 +182,8 @@
   },
   "active": "1447378391150e22",
   "lastOpenFiles": [
+    "setup/aiba_operation_append_20251104.md",
+    "Apollogic_Mix_Session.md.md",
     "setup/ORIGAMI OBAKE TOKYO 今後の方針.md",
     "ルール（rules）/ORIGAMI OBAKE TOKYO SNS 運用統合方針（2025-11確定）.md",
     "分析（analysis）/template_analysis.md.md",
@@ -194,7 +196,6 @@
     "メモ",
     "setup/git_sync_status.md.md",
     "メモ/オーディオ制作における最高の日々はまだこれから.md",
-    "setup/aiba_operation_append_20251104.md",
     "ルール（rules）/operation_rules.md.md",
     "conflict-files-obsidian-git.md",
     "setup",
@@ -212,7 +213,6 @@
     "projects/template_project.md.md",
     "outputs/template_output.md.md",
     "analysis/template_analysis.md.md",
-    "無題のファイル.md",
     "analysis",
     "refs"
   ]
