@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apollogic_Mix_Session.md.md",
+                "file": "2025-11-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apollogic_Mix_Session.md"
+              "title": "2025-11-11"
             }
           }
         ]
@@ -170,10 +170,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:今日のデイリーノートを開く": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
-      "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
@@ -182,8 +182,9 @@
   },
   "active": "1447378391150e22",
   "lastOpenFiles": [
-    "setup/aiba_operation_append_20251104.md",
     "Apollogic_Mix_Session.md.md",
+    "2025-11-11.md",
+    "setup/aiba_operation_append_20251104.md",
     "setup/ORIGAMI OBAKE TOKYO 今後の方針.md",
     "ルール（rules）/ORIGAMI OBAKE TOKYO SNS 運用統合方針（2025-11確定）.md",
     "分析（analysis）/template_analysis.md.md",
