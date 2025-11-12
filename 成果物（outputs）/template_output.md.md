@@ -166,3 +166,41 @@
 ---
 
 つまり、この効果音は**モノラル素材を空間的に“見せる”処理を加える**のが最適です。
+
+🎚 UAD Ampex ATR-102 Vocal Bus Final Setup (2025-11)
+
+[TAPE SETTINGS]
+TAPE TYPE: 456
+SPEED: 15 IPS
+HEAD: 1/2 inch
+CAL: +6
+MODE: REPRO (green)
+METER: OUT
+AUTO GAIN: OFF
+
+[EQ SECTION]
+HF SHELF: 1 o’clock
+BIAS: 1 o’clock
+
+[REPRO SECTION]
+LF: 12 o’clock (flat)
+HF: 12 o’clock (flat)
+
+[TOP SWITCHES]
+CROSSTALK: OFF
+WOW & FLUTTER: OFF
+AUTO CAL: OFF
+HISS & HUM: OFF
+TRANSFORMER: ON
+LINK: ON
+CCIR (IEC1): ON
+NAB: OFF
+
+[RESULT]
+• Natural, open top-end with soft presence
+• Warm midrange from tape harmonics
+• Breath and air stay forward and clear
+• Perfect for soft male vocal + guitar/keys mix
+
+[PRESET NAME]
+Vocal Tape Warm ½ 456 15IPS (CCIR)
