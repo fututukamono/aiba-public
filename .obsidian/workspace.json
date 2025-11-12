@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "template_output.md"
             }
+          },
+          {
+            "id": "016f29ce68386670",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1447378391150e22",
+  "active": "016f29ce68386670",
   "lastOpenFiles": [
     "目次.base",
     "Apollogic_Mix_Session.md.md",
