@@ -25,12 +25,14 @@
             "id": "016f29ce68386670",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "2025-11-12　邦ロックのクラップ処理.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "2025-11-12　邦ロックのクラップ処理"
             }
           }
         ],
@@ -195,6 +197,7 @@
   },
   "active": "016f29ce68386670",
   "lastOpenFiles": [
+    "2025-11-12　邦ロックのクラップ処理.md",
     "目次.base",
     "Apollogic_Mix_Session.md.md",
     "2025-11-11.md",
