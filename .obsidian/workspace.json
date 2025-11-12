@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-11-11.md",
+                "file": "成果物（outputs）/template_output.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-11"
+              "title": "template_output.md"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "1447378391150e22",
   "lastOpenFiles": [
+    "目次.base",
     "Apollogic_Mix_Session.md.md",
     "2025-11-11.md",
     "setup/aiba_operation_append_20251104.md",
@@ -191,7 +192,6 @@
     "generate_aiba_templates.md.md",
     "2025-11-05.md",
     "setup/init_aiba_structure.md.md",
-    "目次.base",
     "README.md",
     "無題のファイル.canvas",
     "メモ",
